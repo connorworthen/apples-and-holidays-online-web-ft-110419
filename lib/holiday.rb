@@ -65,7 +65,6 @@ def all_holidays_with_bbq(holiday_hash)
          array << name
        end
      end
-  end  
+  end
   array
 end
-
